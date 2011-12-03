@@ -1,0 +1,9 @@
+VE Helper
+
+VE Helper is a .NET Application intended to fill out ARRL VEC 605 Forms and
+answer sheets. Fields can be auto populated from a local copy of the FCC
+amateur radio database. I have developed a similar program for the Mac
+and have found that it can really speed up test sessions. I want a new
+version that can be more widely used.
+
+This program will be developed in C# using Mono.
